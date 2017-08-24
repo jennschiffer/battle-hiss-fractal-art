@@ -1,0 +1,16 @@
+* { 
+  box-sizing: border-box;
+}
+
+.fractalpixel {
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  background-color: magenta;
+}
+
+#root {
+  background-color: orange;
+  top: 250px;
+  left: 250px;
+}
